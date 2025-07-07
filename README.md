@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @Swati-a11
-- 👀 I’m a begginer C++ programmer;
-- 🌱 I’m currently learning C++ with DSA.
-- - 💞️ I’m looking forward to explore algorithims and data structure using C++.
-- 📫 Reach me at ss08swati14singh@gmail.com
+👋 Hi, I’m @Swati-a11
+👀 I’ve built several projects using HTML, CSS, and JavaScript.
 
+🎨 Interested in frontend development and continuously improving my skills in responsive web design, JavaScript DOM manipulation, and basic UI/UX.
+
+💻 I’m also a beginner C++ programmer.
+
+🌱 Currently learning C++ with Data Structures and Algorithms (DSA).
+
+💡 Looking forward to exploring algorithms and problem-solving using C++.
+
+📫 Reach me at: ss08swati14singh@gmail.com
 
 <!---
 Swati-a11/Swati-a11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
