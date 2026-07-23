@@ -1,4 +1,5 @@
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Swati-a11&layout=compact)# 👋 Hi, I'm Swati Kumari
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-a11&layout=compact)
+Swati Kumari
 
 💻 Computer Science Engineering student passionate about **Full-Stack Development, AI, and Generative AI**.
 
