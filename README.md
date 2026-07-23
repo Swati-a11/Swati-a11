@@ -1,3 +1,4 @@
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-a11&layout=compact)
 👋 Hi, I’m @Swati-a11
 👀 I’ve built several projects using HTML, CSS, and JavaScript.
 
