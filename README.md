@@ -1,18 +1,32 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-a11&layout=compact)
-👋 Hi, I’m @Swati-a11
-👀 I’ve built several projects using HTML, CSS, and JavaScript.
 
-🎨 Interested in frontend development and continuously improving my skills in responsive web design, JavaScript DOM manipulation, and basic UI/UX.
+# 👋 Hi, I'm Swati Kumari
 
-💻 I’m also a beginner C++ programmer.
+💻 Computer Science Engineering student passionate about **Full-Stack Development, AI, and Generative AI**.
 
-🌱 Currently learning C++ with Data Structures and Algorithms (DSA).
+🚀 I build projects using:
+- React.js, Next.js, TypeScript
+- Node.js, Express.js, FastAPI
+- MongoDB, PostgreSQL
+- Generative AI, RAG, LLM APIs
 
-💡 Looking forward to exploring algorithms and problem-solving using C++.
+🧠 Currently learning:
+- Data Structures & Algorithms in C++
+- Advanced AI concepts like RAG, AI Agents, and LLM applications
 
-📫 Reach me at: ss08swati14singh@gmail.com
+🔥 Projects I've worked on:
+- 🤖 AI Customer Support Assistant
+- 💬 ChaiGPT — AI Chat Application with Tool Calling & Chat Branching
+- 🧠 MultiMind AI — Multi-model AI response system
+- 🎨 Full-stack MERN applications
 
-<!---
-Swati-a11/Swati-a11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 Areas of interest:
+- Full-Stack Development
+- Artificial Intelligence
+- Problem Solving
+- Building scalable web applications
+
+📫 Reach me:
+- Email: ss08swati14singh@gmail.com
+- LinkedIn: https://linkedin.com/in/Swati-a11
+- GitHub: https://github.com/Swati-a11
