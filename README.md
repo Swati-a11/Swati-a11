@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-a11&layout=compact)
+![Top Languages](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Swati-a11&layout=compact)
 
 Swati Kumari
 
